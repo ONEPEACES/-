@@ -5,9 +5,9 @@
 
 业务用户通过创建型模式构造对象，通常都不是直接`new Object()`，而是用给定的类进行对象的获取。
 
-- [简单工厂模式(Simple Factory)](simplefacoty/simple-factory.md)
+- [简单工厂模式(Simple Factory)](simple_facoty/simple-factory.md)
 - [工厂方法模式(Factory Method)](factory_method)
 - [抽象工厂模式(Abstract Factory)](abstract_factory)
 - [建造者模式(Builder)](builder)
 - [原型模式(Prototype)](prototype)
-- [单例模式](singleton)
+- [单例模式(Singleton)](singleton)
