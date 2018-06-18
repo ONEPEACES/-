@@ -11,4 +11,3 @@
 - [建造者模式(Builder)](builder)
 - [原型模式(Prototype)](prototype)
 - [单例模式](singleton)
-
