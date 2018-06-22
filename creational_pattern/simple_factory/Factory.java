@@ -1,6 +1,7 @@
 package creational_pattern.simple_factory;
 
 public class Factory {
+
     public static Product getProduct(double price,String productName){
         if ("Pen".equals(productName)) {
             return new Pen(price,productName);
