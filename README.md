@@ -2,7 +2,7 @@
 仓库内容总结[图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)而来。
 
 ## 模式类型
-- 创建型模式(Creational Pattern)
+- [创建型模式(Creational Pattern)](creational_pattern/creational-pattern.md)
     - 类创建型
         - Factory Method
     - 对象创建型
@@ -10,7 +10,7 @@
         - Builder
         - Prototype
         - Singleton
-- 结构型模式(Structural Pattern)
+- [结构型模式(Structural Pattern)](structural_pattern/structural-pattern.md)
     - 类结构型模式
         - Adapter(类)
     - 对象结构型模式
@@ -21,7 +21,7 @@
         - Facade
         - Flyweight
         - Proxy
-- 行为型模式(Behavioral Pattern)
+- [行为型模式(Behavioral Pattern)](behavioural_pattern/behavioural-pattern.md)
     - 类行为型模式
         - Interpreter
         - Template Method

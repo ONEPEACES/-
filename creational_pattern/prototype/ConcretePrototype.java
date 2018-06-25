@@ -1,6 +1,6 @@
 package creational_pattern.prototype;
 
-public class ConcretePrototype  implements Prototype,Cloneable{
+public class ConcretePrototype  implements Prototype{
     private String val ;
 
     public ConcretePrototype(String val) {
