@@ -9,8 +9,8 @@
 - [工厂方法模式(Factory Method)](factory_method/factory-method.md)
 - [抽象工厂模式(Abstract Factory)](abstract_factory/abstract-factory.md)
 - [建造者模式(Builder)](builder/builder.md)
-- [原型模式(Prototype)](prototype)
-- [单例模式(Singleton)](singleton)
+- [原型模式(Prototype)](prototype/prototype.md)
+- [单例模式(Singleton)](singleton/singleton.md)
 
 ## 类创建模式与对象创建模式的区分
 - 类创建模式：必须继承超类不够灵活
