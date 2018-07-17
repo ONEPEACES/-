@@ -4,6 +4,7 @@ public class Singleton {
     //保证主内存中单例实例是最新值
     private static volatile Singleton instance = null;
 
+    //私有构造器
     private Singleton(){
 
     }

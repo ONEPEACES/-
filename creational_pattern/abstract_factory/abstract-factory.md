@@ -14,9 +14,9 @@
 抽象工厂模式包含如下角色：
 - [AbstractFactory](AbstractFactory.java) ：抽象工厂
     - 提供方法用于创建产品族
-- ConcreteFactory：具体工厂
+- [ConcreteFactory](ConcreteFactoryA.java)：具体工厂
 - [Product](ProductA.java) ：抽象产品
-- ConcreteProduct：具体产品
+- [ConcreteProduct](ConcreteProductA1.java)：具体产品
 
 ![](abstract-factory.png)
 
