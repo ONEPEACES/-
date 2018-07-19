@@ -8,6 +8,6 @@ public class Square extends Shape {
     @Override
     public void option() {
         System.out.print("square");
-        color.draw();
+        this.color.draw();
     }
 }

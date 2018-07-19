@@ -12,6 +12,6 @@ public abstract class Shape {
         this.color = color;
     }
 
-    public abstract void option();
+     public abstract void option();
 
 }
