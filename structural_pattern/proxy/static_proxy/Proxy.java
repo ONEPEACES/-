@@ -3,7 +3,7 @@ package structural_pattern.proxy.static_proxy;
 import creational_pattern.builder.Product;
 
 public class Proxy implements Method{
-    private Client client;
+    private Method client;
 
     Proxy(Client client){
         this.client = client;
